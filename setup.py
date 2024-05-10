@@ -24,7 +24,6 @@ Docs - http://nexradaws.readthedocs.io/en/latest/
 
 * boto3
 * pytz
-* six
 
 **Optional dependencies**
 
